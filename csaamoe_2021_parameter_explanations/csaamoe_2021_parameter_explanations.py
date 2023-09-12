@@ -33,11 +33,9 @@ sys.path.append('./csaamoe_simulation_modules/')
 import pricemodel
 
 # -----------------------------------------------------------
-# >>>>> Understanding               >>>>> -------------------
+# >>>>> Simulation                  >>>>> -------------------
 # -----------------------------------------------------------
-# -- PLOT: Showcase weight parameters
-
-params_1 = {
+sim_params = {
     "memory_param_m": [15, 20, 30, 40]
     , "memory_param_v": [25, 30, 35, 40]
     , "amplitude_param_m": [0, 5, 10, 15, 25, 35]
@@ -62,4 +60,4 @@ params_1 = {
     , "width": 8
     , "height": 8
 }
-pricemodel.make_parameter_illustration(params=params_1, fname="parameter_explanations", path=SETTINGS["plotting"]["path"])
+pricemodel.make_parameter_illustration(params=sim_params, fname="parameter_explanations", path=SETTINGS["plotting"]["path"])

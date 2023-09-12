@@ -67,5 +67,6 @@ pricemodel.make_plots_parameter_convergence(
     , typ_plot="gap"
     , params=sim_params
     , path=SETTINGS["plotting"]["path"]
-    , fname="conv_levels_linear_shock_qv_40_qm_10"
+    , fname="conv_levels_jump_shock_qv_40_qm_10"
 )
+

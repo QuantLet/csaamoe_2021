@@ -29,10 +29,8 @@ sys.path.append('./csaamoe_simulation_modules/')
 import pricemodel
 
 # -----------------------------------------------------------
-# >>>>> Understanding               >>>>> -------------------
+# >>>>> Simulation                  >>>>> -------------------
 # -----------------------------------------------------------
-# -- PLOT: Showcase weight parameters
-
 pricemodel.plot_weight_shifts(path=SETTINGS["plotting"]["path"]
                               , memory_params=[4,10]
                               , amplitude_params=[0.5,2]
