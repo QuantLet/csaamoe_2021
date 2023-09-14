@@ -4,7 +4,7 @@ Published in: 'Cryptocurrency: Speculative Asset and Medium of Exchange (Pernice
 
 Description: "This Quantlet generates the k_variation.png plot and weights_variation.plot. Two plots to understand the workings of the presented price model better. To run this script, please clone the public repository from https://github.com/trudi-group/csaamoe_simulation_modules of Weizenbaum Institut into the directory of this Quantlet."
 
-Keywords: price modelling, plotting
+Keywords: price modelling, plotting, simulation, cryptocurrency, price shocks
 
 Author: Ingolf Pernice, Hermann Elendner, Anna Andresen
 

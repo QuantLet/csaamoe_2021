@@ -4,7 +4,7 @@ Published in: 'Cryptocurrency: Speculative Asset and Medium of Exchange (Pernice
 
 Description: "This Quantlet runs an interesting, additional simulation on stabilisation after shocks. Simulations are triggered with respect to shocks in the fundamental value. Additional simulations show the influence of the models parameters. To run this script, please clone the public repository from https://github.com/trudi-group/csaamoe_simulation_modules into the directory of this Quantlet."
 
-Keywords: price modelling, plotting, price shocks
+Keywords: price modelling, plotting, price shocks, simulation, cryptocurrency
 
 Author: Ingolf Pernice, Hermann Elendner, Anna Andresen
 
